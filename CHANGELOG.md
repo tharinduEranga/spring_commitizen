@@ -1,3 +1,13 @@
+## Unreleased
+
+### BREAKING CHANGE
+
+- replaced the old runner with a new runner as the main class
+
+### Feat
+
+- **class**: replaced the runner
+
 ## 0.2.1 (2023-02-27)
 
 ### Fix
