@@ -4,5 +4,6 @@ public class AppRunner {
     public static void main(String[] args) {
         System.out.println("Run me 2");
         System.out.println("Run me 2");
+        System.out.println("Run me 2");
     }
 }
