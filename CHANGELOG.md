@@ -1,3 +1,9 @@
+## 1.1.0 (2023-02-28)
+
+### Feat
+
+- add new sout
+
 ## 1.0.0 (2023-02-27)
 
 ### BREAKING CHANGE
